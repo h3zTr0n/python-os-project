@@ -1,0 +1,1 @@
+Python OS is an environment for Python applications built for Pygame or a different Python environment to run in.
